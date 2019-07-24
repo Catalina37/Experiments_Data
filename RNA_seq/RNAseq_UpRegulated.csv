@@ -1,0 +1,293 @@
+Systematic ID,Gene name,Product description,S. cerevisiae ortholog,human ortholog
+SPCC63.02c,aah3,alpha-amylase homolog Aah3,,
+SPBP4H10.15,aco2,"aconitate hydratase/mitochondrial ribosomal protein subunit L21, fusion protein","MRPL49,ACO2",
+SPBC405.01,ade1,phosphoribosylamine-glycine ligase/phosphoribosylformylglycinamidine cyclo-ligase,"ADE5,7",GART
+SPAC144.03,ade2,adenylosuccinate synthetase Ade2,ADE12,"ADSSL1,ADSS"
+SPAC23C11.09,ala1,mitochondrial and cytoplasmic alanine-tRNA ligase Ala1 (predicted),ALA1,"AARS,AARS2"
+SPAC1834.05,alg9,mannosyltransferase complex subunit Alg9 (predicted),ALG9,ALG9
+SPCC895.07,alp14,TOG/XMAP215 microtubule plus end tracking polymerase Alp14,STU2,CKAP5
+SPBC1347.02,ani1,CENP-A amino terminus domain (NTD) isomerase Ani1,"FPR4,FPR3",
+SPAC27F1.06c,ani2,CENP-A amino terminus domain (NTD) isomerase Ani2,"FPR4,FPR3",
+SPBC18H10.20c,any1,arrestin-related endocytic adaptor Any1,LDB19,
+SPAC17G8.04c,arc5,ARP2/3 actin-organizing complex subunit Arc5,ARC15,"ARPC5L,ARPC5"
+SPAC4G9.09c,arg11,N-acetyl-gamma-glutamyl-phosphate reductase/acetylglutamate kinase,"ARG5,6",NAGS
+SPAC3H1.07,aru1,arginase Aru1,CAR1,"ARG1,ARG2"
+SPAC30C2.04,asc1,cofactor for cytoplasmic methionyl-and glutamyl-tRNA synthetases Asc1 (predicted),ARC1,AIMP1
+SPAC13G6.10c,asl1,"cell wall protein Asl1, predicted O-glucosyl hydrolase",,
+SPAC222.12c,atp2,F1-FO ATP synthase beta subunit Atp2,ATP2,ATP5F1B
+SPAC26H5.08c,bgl2,glucan beta-glucosidase Bgl2 (predicted),BGL2,
+SPCC1235.02,bio2,biotin synthase,BIO2,
+SPAC22A12.15c,bip1,ER heat shock protein BiP,KAR2,HSPA5
+SPAC4F10.06,bud22,"ribosome small subunit biogenesis protein, BUD22 family (predicted)",BUD22,SRFBP1
+SPBC3D6.02,but2,"But2 family protein But2, similar to cell surface molecules",,
+SPBC21C3.08c,car2,ornithine transaminase Car2,CAR2,OAT
+SPBC337.05c,cct8,chaperonin-containing T-complex theta subunit Cct8,CCT8,CCT8L2
+SPBC336.12c,cdc10,MBF transcription factor complex subunit Cdc10,SWI6,
+SPBC428.18,cdt1,replication licensing factor Cdt1,TAH11,CDT1
+SPCC1450.11c,cek1,serine/threonine protein kinase Cek1,RIM15,"STK38,STK38L"
+SPCC417.05c,cfh2,"SEL1 repeat protein, chitin synthase regulatory factor-like Cfh2","ACK1,SHC1",COA7
+SPAC26A3.05,chc1,clathrin heavy chain Chc1 (predicted),CHC1,"CLTC,CLTCL1"
+SPBC2G5.02c,ckb2,CK2 family regulatory subunit Ckb2 (predicted),"CKB1,CKB2",CSNK2B
+SPBC32F12.01c,css1,"inositol phosphosphingolipid phospholipase C, Css1",ISC1,SMPD2
+SPCC757.07c,ctt1,catalase,"CTA1,CTT1",CAT
+SPBC2G5.03,ctu1,cytosolic thiouridylase subunit Ctu1,NCS6,CTU1
+SPBC646.02,cwf11,U2-type spliceosomal complex ATPase Cwf11,,AQR
+SPBP8B7.16c,dbp2,ATP-dependent RNA helicase Dbp2,DBP2,"DDX17,DDX5"
+SPBC17D1.06,dbp3,ATP-dependent RNA helicase Dbp3 (predicted),DBP3,"DDX17,DDX5"
+SPBC12C2.06,dbp5,cytoplasmic ATP-dependent RNA helicase Dbp5 (predicted),DBP5,"DDX25,DDX19A,DDX19B"
+SPCC285.03,dbp6,ATP-dependent RNA helicase Dbp6 (predicted),DBP6,DDX51
+SPBC21H7.04,dbp7,ATP-dependent RNA helicase Dbp7 (predicted),DBP7,DDX31
+SPCC1223.08c,dfr1,dihydrofolate reductase/ serine hydrolase family fusion protein Dfr1,"FSH1,FSH2,DFR1,FSH3",DHFR2
+SPBC3D6.12,dip2,U3 snoRNA associated protein Dip2 (predicted),DIP2,WDR3
+SPBC26H8.10,dis3,exosome 3'-5' exoribonuclease subunit Dis3,DIS3,DIS3
+SPAC17H9.05,ebp2,rRNA processing protein Ebp2,EBP2,EBNA1BP2
+SPAC3C7.08c,elf1,AAA family ATPase Elf1,NEW1,
+SPAC1B2.03c,elo2,fatty acid elongase Elo2,"ELO2,ELO1,ELO3","ELOVL4,ELOVL2,ELOVL1,ELOVL5,ELOVL7"
+SPBC4F6.05c,emp46,lectin family glycoprotein receptor Emp46 (predicted),"EMP47,EMP46","LMAN1,LMAN1L"
+SPBC13G1.09,enp1,bystin family U3 and U14 snoRNA associated protein Enp1 (predicted),ENP1,BYSL
+SPCC330.09,enp2,rRNA processing protein Enp2 (predicted),ENP2,NOL10
+SPAC19A8.04,erg5,C-22 sterol desaturase Erg5,ERG5,"CYP26C1,CYP26B1,CYP26A1"
+SPCC1259.02c,erm1,ER metallopeptidase Erm1 (predicted),PFF1,ERMP1
+SPCC970.06,erv29,COP II adaptor Erv29 (predicted),ERV29,SURF4
+SPBC83.18c,fic1,C2 domain protein Fic1,INN1,
+SPBC14C8.03,fma2,methionine aminopeptidase Fma2 (predicted),MAP2,METAP2
+SPCC1322.04,fyu1,UTP-glucose-1-phosphate uridylyltransferase Fyu1,"YHL012W,UGP1",UGP2
+SPAC140.02,gar2,nucleolar protein required for rRNA processing,NSR1,NCL
+SPAC19B12.02c,gas1,"cell wall protein 1,3-beta-glucanosyltransferase Gas1 (predicted)",GAS1,
+SPBC29A10.08,gas2,"cell wall 1,3-beta-glucanosyltransferase Gas2",GAS2,
+SPCC825.02,gbs1,glucosidase II beta subunit,GTB1,PRKCSH
+SPCC794.01c,gcd1,glucose dehydrogenase Gcd1,ZWF1,H6PD
+SPAC13G6.06c,gcv2,glycine cleavage complex subunit P (predicted),GCV2,GLDC
+SPAC824.08,gda1,Golgi nucleoside-diphosphatase Gda1,GDA1,"ENTPD5,ENTPD6"
+SPBC4B4.08,ght2,plasma membrane glucose/fructose:proton symporter Ght2,"HXT15,HXT7,HXT6,STL1,HXT13,MAL11,HXT4,HXT1,HXT5,HXT8,HXT9,HXT16,GAL2,HXT2,HXT14,HXT17,HXT11",
+SPCC1753.02c,git3,G-protein coupled receptor Git3,GPR1,
+SPCC1795.03,gms1,Golgi UDP-galactose transmembrane transporter Gms1,,"SLC35A2,SLC35A3"
+SPBC26H8.08c,grn1,GTPase Grn1,NUG1,"GNL3L,GNL3"
+SPAC3F10.03,grs1,mitochondrial and cytoplasmic glycine-tRNA ligase Grs1,"GRS1,GRS2",GARS
+SPBC26H8.06,grx4,CIA machinery monothiol glutaredoxin Grx4,"GRX3,GRX4",GLRX3
+SPAC30D11.01c,gto2,alpha-glucosidase (predicted),,"SI,GAA,MGAM"
+SPAC144.10c,gwt1,pig-W,GWT1,PIGW
+SPAC1F7.02c,has1,ATP-dependent RNA helicase Has1 (predicted),HAS1,DDX18
+SPAC1093.05,hca4,ATP-dependent RNA helicase Hca4 (predicted),HCA4,DDX10
+SPAC222.11,hem13,coproporphyrinogen III oxidase Hem13 (predicted),HEM13,CPOX
+SPAC20G4.03c,hri1,eIF2 alpha kinase Hri1,,"EIF2AK3,EIF2AK2"
+SPBC3E7.02c,hsp16,heat shock protein Hsp16,"HSP26,HSP42","CRYAA,CRYAB,HSPB6,HSPB8,HSPB1,HSPB2,HSPB3"
+SPAC23G3.12c,htr12,"serine protease, involved in lipid metabolism (predicted)",NMA111,"HTRA2,HTRA4,HTRA3,HTRA1"
+SPAC24H6.04,hxk1,hexokinase 1,"HXK1,HXK2","GCK,HK1,HK2,HK3"
+SPBC8D2.06,irs1,cytoplasmic isoleucine-tRNA ligase Irs1 (predicted),ILS1,IARS
+SPBC30B4.05,kap109,karyopherin/importin beta family nuclear export signal receptor Kap109,CSE1,CSE1L
+SPBC14F5.03c,kap123,karyopherin/importin beta family nuclear import signal receptor Kap123,KAP123,IPO4
+SPBC365.09c,kin17,human KIN ortholog (predicted),RTS2,KIN
+SPBC17G9.03c,krs1,cytoplasmic lysine-tRNA ligase Krs1 (predicted),KRS1,KARS
+SPCC1682.13,laf2,"Clr6 associated factor 2, Laf2","FUN19,YOR338W",
+SPAC1527.03,lar1,"RNA-binding protein, LARP1 family Lar1 (predicted)","SRO9,SLF1","LARP1B,LARP1"
+SPAC18B11.06,lcp5,U3 snoRNP-associated protein Lcp5 (predicted),LCP5,NGDN
+SPBC16E9.16c,lsd90,Lsd90 protein,,
+SPAC13G7.04c,mac1,plasma membrane anchored protein Mac1,"DCV1,RIM9,YOL019W",
+SPAPB8E5.03,mae1,plasma membrane malate/succinate:proton symporter Mae1,,
+SPCC794.12c,mae2,"malic enzyme, malate dehydrogenase (oxaloacetate decarboxylating), Mae2",MAE1,"ME1,ME2,ME3"
+SPAC222.06,mak16,nuclear HMG-like acidic protein Mak16 (predicted),MAK16,MAK16
+SPBC25B2.02c,mam1,M-factor transmembrane transporter Mam1,STE6,
+SPAC11E3.06,map1,MADS-box transcription factor Map1,"ARG80,MCM1","MEF2A,MEF2B,MEF2C,MEF2D"
+SPBC1734.11,mas5,DNAJ domain protein Mas5 (predicted),YDJ1,"DNAJA2,DNAJA4,DNAJA1"
+SPAC19G12.05,mce1,"mitochondrial carrier, citrate (predicted)",CTP1,SLC25A1
+SPAC23C11.17,mdm28,mitochondrial inner membrane protein involved in translation Mdm28 (predicted),"MDM38,YLH47","LETM2,LETM1"
+SPAC27D7.03c,mei2,RNA-binding protein involved in meiosis Mei2,,
+SPAC56F8.10,met9,methylenetetrahydrofolate reductase Met9,MET13,MTHFR
+SPAPB8E5.05,mfm1,M-factor precursor Mfm1,,
+SPAC513.03,mfm2,M-factor precursor Mfm2,,
+SPAC17C9.16c,mfs1,plasma membrane spermidine transmembrane transporter Mfs1 (predicted),,
+SPBC36.03c,mfs3,plasma membrane spermidine transmembrane transporter Mfs3,TPO1,
+SPBC25B2.05,mis3,rRNA processing protein Mis3,KRR1,KRR1
+SPAC30C2.02,mmd1,deoxyhypusine hydroxylase,LIA1,DOHH
+SPCC1906.01,mpg1,mannose-1-phosphate guanyltransferase Mpg1,PSA1,GMPPB
+SPBP22H7.02c,mrd1,ribosome biogenesis RNA-binding protein Mrd1 (predicted),MRD1,RBM19
+SPAC2C4.17c,msy2,MS ion channel protein 2 (predicted),,
+SPCC132.01c,mtr1,microtubule regulator Mtr1,RQC2,NEMF
+SPAC4A8.05c,myp2,myosin II heavy chain Myo3,MYO1,"MYH11,MYH9"
+SPCC338.07c,naa15,NatA N-acetyltransferase complex regulatory subunit Naa15 (predicted),NAT1,"NAA16,NAA15"
+SPAC1B3.13,nan1,U3 snoRNP-associated protein Nan1 (predicted),NAN1,WDR75
+SPAC20G8.09c,nat10,rRNA/tRNA cytidine N-acetyltransferase,KRE33,NAT10
+SPAC1782.10c,nhp2,box H/ACA snoRNP complex subunit Nhp2,NHP2,NHP2
+SPAC16C9.03,nmd3,export adaptor Nmd3 (predicted),NMD3,NMD3
+SPAC1142.04,noc201,Noc complex subunit Noc201 (predicted),NOC2,NOC2L
+SPBC651.01c,nog1,ribosome export GTP binding protein Nog1 (predicted),NOG1,GTPBP4
+SPAC16E8.06c,nop12,RNA-binding protein Nop12 (predicted),NOP12,RBM34
+SPBP8B7.20c,nop2,rRNA (cytosine-C5-)-methyltransferase activity Nop2 (predicted),NOP2,NOP2
+SPBC646.10c,nop56,U3 snoRNP protein Nop56 (predicted),NOP56,NOP56
+SPAC23G3.06,nop58,U3 snoRNP protein Nop58 (predicted),NOP58,NOP58
+SPBP16F5.06,nop8,ribosome biogenesis protein Nop8 (predicted),NOP8,NOL8
+SPAC6G9.02c,nop9,pumilio family RNA-binding protein Nop9 (predicted),NOP9,NOP9
+SPCC4B3.07,nro1,"negative regulator of Ofd1, Nro1",ETT1,
+SPBC4C3.05c,nuc1,DNA-directed RNA polymerase I complex large subunit Nuc1,RPA190,POLR1A
+SPCC1020.10,oca2,serine/threonine protein kinase Oca2,"RTK1,PRR2,NPR1,HRK1",
+SPAPB1E7.09,ogm2,protein O-mannosyltransferase Ogm2,"PMT2,PMT6,PMT3",POMT2
+SPBC19C7.12c,omh1,"alpha-1,2-mannosyltransferase Omh1","KTR4,KTR3,KRE2,YUR1,KTR2,KTR1,KTR6",
+SPNCRNA.130,omt3,intergenic RNA Omt3,,
+SPAC1F5.02,pdi1,ER protein disulfide isomerase (predicted),"PDI1,EUG1","PDIA2,PDIA4,PDIA3,P4HB"
+SPCC23B6.04c,pdr16,"meiotic sec14 cytosolic factor family, phospholipid-intermembrane transfer protein Pdr16 (predicted)","PDR16,PDR17",
+SPAC1093.02,pdx3,pyridoxamine 5'-phosphate oxidase Pdx3 (predicted),PDX3,PNPO
+SPBC83.11,pet2,Golgi phosphoenolpyruvate transmembrane transporter Pet2,"YJL193W,SLY41",SLC35E1
+SPAC17D4.01,pex7,peroxin-7 (predicted),PEX7,PEX7
+SPBC8E4.01c,pho84,inorganic phosphate transmembrane transporter (predicted),PHO84,
+SPAC1D4.08,pis1,CDP-diacylglycerol--inositol 3-phosphatidyltransferase Pis1,PIS1,CDIPT
+SPBC106.11c,plg7,"phospholipase A2, PAF family homolog",,"PAFAH2,PLA2G7"
+SPAC23C11.16,plo1,Polo kinase Plo1,CDC5,"PLK2,PLK3,PLK1"
+SPAC1071.10c,pma1,"plasma membrane P-type proton exporting ATPase, P3-type Pma1",PMA1,
+SPCC663.03,pmd1,leptomycin transmembrane transporter Pmd1,STE6,"ABCB1,ABCB11,ABCB4"
+SPAC1556.07,pmm1,phosphomannomutase Pmm1,SEC53,"PMM1,PMM2"
+SPAPB1A10.14,pof15,F-box protein (predicted),,
+SPCC24B10.22,pog1,mitochondrial DNA polymerase gamma Pog1,MIP1,POLG
+SPBC29A10.07,pom152,nucleoporin Pom152,POM152,
+SPBC1718.01,pop1,cullin 1 adaptor protein Pop1,CDC4,"FBXO24,FBXW2,FBXW7"
+SPAC4G8.05,ppk14,serine/threonine protein kinase Ppk14 (predicted),"KIN82,FPK1",
+SPAC823.03,ppk15,serine/threonine protein kinase Ppk15 (predicted),YAK1,"DYRK1A,DYRK1B"
+SPCC162.10,ppk33,serine/threonine protein kinase Ppk33 (predicted),,"STK32B,STK32C,STK32A"
+SPBC19F5.05c,ppp1,pescadillo-family BRCT domain protein Ppp1 (predicted),NOP7,PES1
+SPAC8C9.06c,ppr4,mitochondrial Cox1 translation regulator Ppr4,PET309,
+SPBC16H5.10c,prp43,ATP-dependent RNA helicase Prp43,PRP43,DHX15
+SPBC19C7.06,prs1,cytoplasmic proline-tRNA ligase Prs1 (predicted),YHR020W,EPRS
+SPCC4G3.08,psk1,ribosomal protein S6 kinase Psk1,YPK3,"RPS6KA1,RPS6KA2,RPS6KA3,RPS6KA6,RPS6KB2"
+SPAC110.04c,pss1,heat shock protein Pss1,"SSE2,SSE1","HSPH1,HSPA4L,HSPA4"
+SPAC1002.13c,psu1,cell wall beta-glucosidase Psu1 (predicted),"SIM1,NCA3,UTH1,SUN4",
+SPCC1223.11,ptc2,"MAP kinase threonine phosphatase, protein phosphatase 2c homolog Ptc2","PTC3,PTC2",PPM1G
+SPBC56F2.08c,puf1,pumilio family RNA-binding protein Puf1 (predicted),"JSN1,PUF2",
+SPCP1E11.11,puf6,pumilio family RNA-binding protein Puf6 (predicted),PUF6,PUM3
+SPBC1A4.09,pus7,tRNA/snRNA/rRNA pseudouridine synthase Pus7 (predicted),PUS7,PUS7L
+SPBC713.04c,pwp2,U3 snoRNP-associated protein Utp1 (predicted),PWP2,PWP2
+SPBC4F6.12,pxl1,paxillin-like protein Pxl1,PXL1,"TGFB1I1,LPXN,PXN"
+SPAC12G12.06c,rcl1,rRNA processing protein Rcl1 (predicted),RCL1,RCL1
+SPAC343.12,rds1,ferritin related conserved fungal protein,,
+SPAC22F3.12c,rgs1,regulator of G-protein signaling Rgs1,SST2,
+SPAC144.12,rki1,ribose 5-phosphate isomerase Rki1 (predicted),RKI1,RPIA
+SPAC22E12.13c,rlp24,ribosomal L24-like protein involved in ribosome biogenesis Rlp24 (predicted),RLP24,RSL24D1
+SPAC664.06,rlp7,ribosomal protein L7-like Rlp7 involved in ribosome biogenesis (predicted),RLP7,RPL7
+SPBC8D2.10c,rmt3,type I ribosomal protein arginine N-methyltransferase Rmt3,,PRMT3
+SPAC3G6.04,rnp24,RNA-binding protein Rnp24,NOP13,
+SPAC22F3.08c,rok1,ATP-dependent RNA helicase Rok1 (predicted),ROK1,DDX52
+SPBP23A10.07,rpa2,DNA-directed RNA polymerase I complex subunit Rpa2,RPA135,POLR1B
+SPAC18G6.11c,rrn3,RNA polymerase I general transcription inititation factor subunit Rrn3,RRN3,RRN3
+SPAPB8E5.07c,rrp12,rRNA processing protein Rrp12 (predicted),RRP12,RRP12
+SPAC22F8.09,rrp16,rRNA processing protein Rrp16 (predicted),NOP53,NOP53
+SPAC823.08c,rrp3,ATP-dependent RNA helicase Rrp3 (predicted),RRP3,DDX47
+SPAC823.04,rrp36,rRNA processing protein Rrp36 (predicted),RRP36,RRP36
+SPCC1183.07,rrp5,U3 snoRNP-associated protein Rrp5 (predicted),RRP5,PDCD11
+SPAC2E1P5.05,rrp9,U3 snoRNP-associated protein Rrp9 (predicted),RRP9,RRP9
+SPBC354.08c,rsn1,Golgi to plasma membrane transport protein Rsn1 (predicted),RSN1,"TMEM63B,TMEM63C,TMEM63A"
+SPBC21C3.19,rtc3,SBDS family protein Rtc3 (predicted),RTC3,SBDS
+SPBP22H7.03,sbg1,plasma membrane-actinomyosin ring linker protein Sbg1,"SKN1,KRE6",
+SPAC19G12.08,scs7,ER sphingosine hydroxylase Scs7,SCS7,FA2H
+SPBC16C6.13c,sec27,coatomer beta' subunit (predicted),SEC27,COPB2
+SPBC36B7.03,sec63,ER protein translocation subcomplex subunit Sec63 (predicted),SEC63,SEC63
+SPCC16A11.01,sfk1,plasma membrane protein involved in inositol lipid-mediated signaling Sfk1 (predicted),SFK1,"TMEM150A,DRAM1,DRAM2,TMEM150B,TMEM150C"
+SPAC16.05c,sfp1,transcription factor Sfp1 (predicted),SFP1,JAZF1
+SPCC24B10.13,skb5,protein kinase activator Skb5,NBP2,"SLA,SLA2"
+SPBC1709.05,sks2,"heat shock protein, ribosome associated molecular chaperone Sks2","SSB1,SSB2","HSPA1A,HSPA1B,HSPA1L,HSPA2,HSPA5,HSPA6,HSPA8"
+SPAC57A10.10c,sla1,La protein homolog,LHP1,SSB
+SPCPB16A4.07,smp4,Schizosaccharomyces specific microprotein Smp4,,
+SPBC1A4.07c,sof1,U3 snoRNP-associated protein Sof1 (predicted),SOF1,DCAF13
+SPBC24C6.02,spb4,ATP-dependent RNA helicase Spb4 (predicted),SPB4,DDX55
+SPBP4H10.05c,spe2,S-adenosylmethionine decarboxylase proenzyme Spe2,SPE2,AMD1
+SPAC31G5.09c,spk1,MAP kinase Spk1,FUS3,"MAPK1,MAPK3"
+SPAC1F3.06c,spo15,mitotic and mieotic spindle pole body protein Spo15,,
+SPBC19C2.09,sre1,"sterol regulatory element binding protein, transcription factor Sre1",,SREBF1
+SPBC1711.05,srp40,nucleocytoplasmic transport chaperone Srp40 (predicted),SRP40,NOLC1
+SPCC1739.13,ssa2,heat shock protein Ssa2,"SSA1,SSA3,SSA4,SSA2","HSPA1A,HSPA1B,HSPA1L,HSPA2,HSPA5,HSPA6,HSPA8"
+SPBC32C12.02,ste11,transcription factor Ste11,,
+SPAC1565.04c,ste4,adaptor protein Ste4,STE50,
+SPBC887.15c,sur2,sphingosine hydroxylase/sphingolipid delta-4 desaturase activity Sur2,SUR2,
+SPCC584.11c,svf1,"Svf1 family protein, lipocalin superfamily Svf1",SVF1,
+SPBC36B7.02,svf2,"Svf1 family protein, lipocalin superfamily Svf2",,
+SPCP31B10.06,tcb2,"tricalbin, C2 domain protein (phospholipid binding) ER-plasma membrane tethering protein Tcb2 (predicted)","TCB3,TCB2,TCB1","ESYT2,ESYT3,ESYT1"
+SPBC1677.03c,tda1,threonine ammonia-lyase Tda1,ILV1,
+SPAC6G10.02c,tea3,cell end marker Tea3,"KEL2,KEL1",RABEPK
+SPNCRNA.214,ter1,telomerase RNA,,
+SPBC1271.09,tgp1,plasma membrane glycerophosphodiester transmembrane transporter (predicted),GIT1,
+SPBC4C3.03,thr1,homoserine kinase Thr1 (predicted),THR1,
+SPBC25H2.07,tif11,translation initiation factor eIF1A,TIF11,"EIF1AX,EIF1AY"
+SPAC21E11.06,tif224,translation initiation factor eIF2B delta subunit,GCD2,EIF2B4
+SPAC1751.03,tif313,translation initiation factor eIF3m,,EIF3M
+SPBC17D11.05,tif32,translation initiation factor eIF3a,RPG1,EIF3A
+SPAC4A8.16c,tif33,translation initiation factor eIF3c,NIP1,"EIF3CL,EIF3C"
+SPAC6B12.12,tom70,mitochondrial TOM complex subunit Tom70 (predicted),"TOM71,TOM70",TOMM70
+SPBC1703.14c,top1,DNA topoisomerase I,TOP1,"TOP1,TOP1MT"
+SPAP14E8.02,tos4,chromatin binding FHA domain protein Tos4 (predicted),"PLM2,TOS4",
+SPAC23H4.15,tsr1,ribosome biogenesis protein Tsr1 (predicted),TSR1,TSR1
+SPBP8B7.21,ubp3,ubiquitin C-terminal hydrolase Ubp3,UBP3,USP10
+SPBC365.14c,uge1,UDP-glucose 4-epimerase Uge1,GAL10,GALE
+SPAC22G7.06c,ura1,"carbamoyl-phosphate synthase (glutamine hydrolyzing), aspartate carbamoyltransferase Ura1",URA2,CAD
+SPAC57A10.12c,ura3,mitochondrial dihydroorotate dehydrogenase Ura3,URA1,DHODH
+SPAC2G11.02,urb2,ribosome biogenesis protein Urb2 (predicted),URB2,URB2
+SPAC1002.19,urg1,GTP cyclohydrolase II Urg1 (predicted),,
+SPAC1002.18,urg3,"DUF1688 family fungal conserved protein, implicated in uracil or riboflavin metabolism",,
+SPCC1223.09,uro1,uricase Uro1,,UOX
+SPBC23E6.04c,utp10,U3 snoRNP-associated protein Utp10 (predicted),UTP10,HEATR1
+SPBC428.19c,utp15,U3 snoRNP-associated WD repeat protein Utp15 (predicted),UTP15,UTP15
+SPBC56F2.04,utp20,U3 snoRNP protein Utp20 (predicted),UTP20,UTP20
+SPCC1672.07,utp21,U3 snoRNP-associated protein Utp21 (predicted),UTP21,WDR36
+SPBC32H8.04c,utp24,18S rRNA endonuclease Utp24,FCF1,FCF1
+SPCC1827.01c,utp25,U3 associated protein Utp25 (predicted),UTP25,UTP25
+SPBC3B8.09,utp3,U3 snoRNP-associated protein Utp3 (predicted),SAS10,UTP3
+SPAC1565.05,utp8,t-UTP complex subunit Utp8 (predicted),UTP8,NOL11
+SPBC19C7.09c,uve1,endonuclease Uve1,,
+SPAC16E8.07c,vph1,V-type ATPase V0 subunit a (predicted),"STV1,VPH1","TCIRG1,ATP6V0A2,ATP6V0A1,ATP6V0A4"
+SPAC2F7.13c,wrs1,cytoplasmic tryptophan-tRNA ligase Wrs1 (predicted),WRS1,WARS
+SPCC576.01c,xan1,alpha-ketoglutarate-dependent xanthine dioxygenase Xan1,,
+SPBC83.13,yhm2,"mitochondrial carrier, tricarboxylic acid Yhm2 (predicted)",YHM2,
+SPBC1778.01c,zuo1,"ribosome-associated chaperone, zuotin (predicted)",ZUO1,DNAJC2
+SPAC11E3.14,,protein with a role in clearing protein aggregates (predicted),"IML2,YKR018C","TTC39A,TTC30B,TTC39C"
+SPAC16A10.01,,plasma membrane ThrE amino acid transmembrane transporter family protein (preedicted),YJL107C,
+SPAC1786.02,,phospholipase (predicted),"PLB2,PLB1,PLB3","PLA2G4E,PLA2G4F,PLA2G4D,PLA2G4A,PLA2G4B,PLA2G4C"
+SPAC17G6.11c,,sphingolipid biosynthesis protein (predicted),"SKN1,KRE6",
+SPAC1B9.03c,,RNA-binding protein involved in ribosomal large subunit assembly and maintenance (predicted),"SSF2,SSF1",PPAN
+SPAC22F8.05,,"alpha,alpha-trehalose-phosphate synthase (predicted)","TSL1,TPS3",
+SPAC27E2.03c,,"Obg-like ATPase, human OLA1 ortholog (predicted)",OLA1,OLA1
+SPAC29A4.02c,,translation elongation factor EF-1 gamma subunit,"YGR201C,TEF4,CAM1","EEF1E1,EEF1G"
+SPAC29E6.06c,,cytoplasmic cysteine-tRNA ligase Crs1 (predicted),YNL247W,CARS
+SPAC2H10.01,,"transcription factor, zf-fungal binuclear cluster type (predicted)",,
+SPAC32A11.02c,,DUF4449 family conserved fungal protein,,
+SPAC3F10.16c,,"GTP binding protein, HSR1-related (predicted)",LSG1,LSG1
+SPAC458.02c,,mRNP complex (predicted),BFR1,
+SPAC4F8.04,,Brix domain protein Rpf1 (predicted),RPF1,RPF1
+SPAC513.07,,flavonol reductase/cinnamoyl-CoA reductase family,"YDR541C,YGL039W,ARI1,GRE2",
+SPAC694.02,,"DEAD/DEAH box helicase, human DDL60 and DDL60L ortholog, implicated in mRNA degradation",,"DDX60,DDX60L"
+SPAC8F11.04,,U3 snoRNP-associated protein Cic1/Utp30 family (predicted),"CIC1,UTP30",RSL1D1
+SPAC922.04,,Schizosaccharomyces specific protein,,
+SPAC9E9.02,,dubious,,
+SPAC9E9.06c,,threonine synthase (predicted),THR4,THNSL1
+SPAPB18E9.05c,,Schizosaccharomyces pombe specific protein,,
+SPBC1105.01,,rRNA processing protein Rrp12-like (predicted),RRP12,RRP12
+SPBC15C4.06c,,"ubiquitin-protein ligase E3 Meu34, human RNF13 family homolog, unknown biological role (predicted)",YBR062C,RNF13
+SPBC1683.01,,inorganic phosphate transmembrane transporter (predicted),PHO84,
+SPBC16H5.08c,,"ribosome biogenesis ATPase, Arb family ABCF2-like (predicted)",ARB1,ABCF2
+SPBC17A3.05c,,"DNAJ/DUF1977, human DNAJB12 homolog, Hsp70 co-chaperone (predicted)",,"DNAJB12,DNAJB14"
+SPBC19C7.04c,,DUF2406 family conserved fungal protein,"YGR273C,YMR295C",
+SPBC19F5.04,,aspartate kinase (predicted),HOM3,
+SPBC1E8.05,,"conserved fungal cell surface protein, Kre9/Knh1 family",,
+SPBC215.01,,GTPase activating protein (predicted),MDR1,"TBC1D9,TBC1D8B,TBC1D9B"
+SPBC215.06c,,"nucleolar RNA-binding protein, human LYAR homolog, implicated in transcriptional regulation",YCR087C-A,LYAR
+SPBC26H8.11c,,acyl-coenzyme A thioesterase,MRX3,"THEM4,THEM5"
+SPBC29B5.04c,,phosphatidate phosphatase converting phosphatidate to diacylglycerol (predicted),APP1,
+SPBC2G2.17c,,beta-glucosidase Psu2 (predicted),"SIM1,NCA3,UTH1,SUN4",
+SPBC2G5.05,,transketolase (predicted),"TKL2,TKL1","TKT,TKTL1,TKTL2"
+SPBC32F12.10,,phosphoglucomutase (predicted),"PGM1,PGM2","PGM1,PGM5"
+SPBC428.10,,Schizosaccharomyces pombe specific protein,,
+SPBC530.11c,,"transcription factor, zf-fungal binuclear cluster type (predicted)",,
+SPBC530.15c,,spermidine family transmembrane transporter (predicted),TPO1,
+SPBC83.16c,,protein with a role in clearing protein aggregates (predicted),"IML2,YKR018C",TTC39B
+SPBPB2B2.01,,amino acid transmembrane transporter (predicted),"BAP2,TAT1,AGP1,BAP3,GNP1,CAN1,HIP1,GAP1,LYP1,ALP1,TAT2,PUT4,DIP5","SLC7A1,SLC7A2,SLC7A3,SLC7A4,SLC7A14"
+SPBPB7E8.01,,"Schizosaccharomyces specific protein, predicted GPI anchor",,
+SPCC11E10.01,,cystathionine beta-lyase (predicted),STR3,CTH
+SPCC1259.08,,DUF2457 family conserved fungal protein,,
+SPCC1322.10,,"conserved fungal cell surface protein, Kre9/Knh1 family",,
+SPCC2H8.02,,plasma membrane inorganic phosphate transmembrane transporter (predicted),PHO84,
+SPCC320.03,,transcription factor (predicted),"EDS1,RGT1",
+SPCC320.08,,transmembrane transporter (predicted),,"SLC35F1,SLC35F2"
+SPCC417.16,,mitochondrial protein (predicted),,"NDUFA4L2,C15orf48,NDUFA4"
+SPCC594.02c,,DUF2456 family conserved fungal protein,YHL026C,
+SPCC737.04,,UPF0300 family protein 6,,
+SPCC794.04c,,amino acid transmembrane transporter (predicted),,"SPNS2,SPNS3,SPNS1"
+SPCC825.01,,"ATPase, involved in cytoplasmic translational initiation (predicted)",,ABCF1
+SPNCRNA.1164,,intergenic RNA (predicted),,
+SPNCRNA.253,,non-coding RNA (predicted),,
+SPNCRNA.99,,non-coding RNA (predicted),,
